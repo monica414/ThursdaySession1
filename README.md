@@ -1,2 +1,2 @@
-# ThursdaySession1
+# ThursdaySession
 My first git project
